@@ -29,7 +29,3 @@ booktitle={2021 IEEE International Conference on Multimedia and Expo (ICME)},
 pages={1--6}, year={2021}, organization={IEEE} 
 }
 ```
-
-## Acknowledge
-
-This code is based on the implementations of [Cross Attention Network for Few-shot Classification](https://github.com/blue-blue272/fewshot-CAN).
