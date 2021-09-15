@@ -30,5 +30,6 @@ pages={1--6}, year={2021}, organization={IEEE}
 }
 ```
 
-**Acknowledge**
+## Acknowledge
+
 This code is based on the implementations of [Cross Attention Network for Few-shot Classification](https://github.com/blue-blue272/fewshot-CAN).
